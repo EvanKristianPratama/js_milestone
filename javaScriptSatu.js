@@ -24,3 +24,11 @@ if (online) {
     console.log ("ofline jir");
 }
 
+let score = 80;
+
+if (score >= 55 ) {
+    console.log ("pass")
+} else {
+    console.log ("fail")
+}
+
