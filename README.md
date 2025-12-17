@@ -13,3 +13,9 @@ plan for 2morrow  :
 learning how to use looping with array 
 
 
+day three 
+
+day three i start feel bored and exausted for learning coding..buta i start small for writing loping
+
+
+
